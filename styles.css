@@ -64,6 +64,10 @@ a{
 a:hover{
   color:#EAF6F6;
 }
+.contact-mail:hover{
+  color:#66BFBF
+}
+  
 .bio{
   line-height: 2;
   width: 25%;
